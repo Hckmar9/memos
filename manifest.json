@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "Memos",
   "version": "1.0",
+  "author": "hckmar",
   "description": "A basic note-keeping extension.",
   "permissions": ["storage"],
   "action": {
